@@ -4,6 +4,9 @@ Open source bale monitor to replace/modify the BaleTrak Pro system
 
 V0.01 - Only monitors the baler. No ability to control the twine or net has been added yet.
 
+Hardware RQD (so far):
+Arduino Mega
+
 
 
 /*
