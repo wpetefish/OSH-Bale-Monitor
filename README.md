@@ -8,9 +8,6 @@ Hardware RQD (so far):
 
 Arduino Mega
 
-
-
-/*
  * ----------------------------------------------------------------------------
  * "THE BEER-WARE LICENSE" (Revision 42):
  * <william.petefish@gmail.com> wrote this file.  As long as you retain this notice you
@@ -19,4 +16,3 @@ Arduino Mega
  *
  * Original THE BEER-WARE LICENSE by Poul-Henning Kamp
  * ----------------------------------------------------------------------------
- */
