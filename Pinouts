@@ -1,0 +1,21 @@
+Monitor side:
+6 - right shape sensor
+8 - left shape sensor
+9 - rotary sensor power
+15 - right gate sw
+16 - oversize sw
+17 - left gate sw
+18 - net cut sw
+19 - bale size sensor
+20 - GND
+21 - rotary sensor gnd
+23 - net actuator
+25 - variable core solenoid
+26 - net and twine actuator
+27 - SW GND
+28 - +12v
+30 - twine actuator
+31 - variable core GND
+
+1-5, 7, 10-13, 24 are not used
+14, 22, 29 are spare wires
