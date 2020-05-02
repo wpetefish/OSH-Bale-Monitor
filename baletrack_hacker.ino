@@ -22,7 +22,7 @@ int leftBaleShp = A0;
 int rightBaleShp = A1;
 int baleDiameterSENS = A2;
 int ptoSlip = 17;
-int footSlip = 18;
+//int footSlip = 18;
 
 //initialize the actuators
 int twineAct = 13;
@@ -45,7 +45,7 @@ int oversize = 5;
 int ejectNow = 4;
 int wrapping = 3;
 int slipPto = 2;
-int slipFoot = 14;
+//int slipFoot = 14;
 int gateClosed = 15;
 int buzzer = 16;
 
